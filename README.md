@@ -1,11 +1,16 @@
-== Edurunner ==
-½ÌÓıÏÈĞĞ£¨EduRunner£©£¬³ÉÁ¢ÓÚ2011Äê£¬ÊÇÒ»¸öÓÉÁôÃÀÑ§×Ó´´Á¢µÄ¡¢ÔÚÃÀ¹ú×¢²áµÄ·ÇÓªÀû×éÖ¯¡£ÎÒÃÇ¹Ø×¢½ÌÓı¹«Æ½£¬ÖÂÁ¦ÓÚÇàÉÙÄê¸öÈË·¢Õ¹µÄ×ÉÑ¯ºÍÅàÑµ¡£Í¨¹ıÌá¹©ÓëÄÜÁ¦½¨ÉèÏà¹ØµÄÅàÑµ¿Î³Ì¡¢¹¤×÷·»µÈ»î¶¯£¬´Ù½øÇàÉÙÄê¸öĞÔ·¢Õ¹£¬Ìá¸ßËûÃÇÍÅ¶ÓºÏ×÷ºÍÉç»á²ÎÓëµÄÄÜÁ¦£¬Ö¼ÔÚÍ¨¹ı½ÌÓıÀíÂÛÑĞ¾¿ºÍ½ÌÓıÊµ¼ù¹Ø×¢ÖĞ¹ú½ÌÓı¸Ä¸ïÊµ¼ùºÍĞÂÊĞÃñ×ÓµÜ¡£
+Edurunner
+==========
+æ•™è‚²å…ˆè¡Œï¼ˆEduRunnerï¼‰ï¼Œæˆç«‹äº2011å¹´ï¼Œæ˜¯ä¸€ä¸ªç”±ç•™ç¾å­¦å­åˆ›ç«‹çš„ã€åœ¨ç¾å›½æ³¨å†Œçš„éè¥åˆ©ç»„ç»‡ã€‚
+æˆ‘ä»¬å…³æ³¨æ•™è‚²å…¬å¹³ï¼Œè‡´åŠ›äºé’å°‘å¹´ä¸ªäººå‘å±•çš„å’¨è¯¢å’ŒåŸ¹è®­ã€‚
+é€šè¿‡æä¾›ä¸èƒ½åŠ›å»ºè®¾ç›¸å…³çš„åŸ¹è®­è¯¾ç¨‹ã€å·¥ä½œåŠç­‰æ´»åŠ¨ï¼Œä¿ƒè¿›é’å°‘å¹´ä¸ªæ€§å‘å±•ï¼Œæé«˜ä»–ä»¬å›¢é˜Ÿåˆä½œå’Œç¤¾ä¼šå‚ä¸çš„èƒ½åŠ›ï¼Œ
+æ—¨åœ¨é€šè¿‡æ•™è‚²ç†è®ºç ”ç©¶å’Œæ•™è‚²å®è·µå…³æ³¨ä¸­å›½æ•™è‚²æ”¹é©å®è·µå’Œæ–°å¸‚æ°‘å­å¼Ÿã€‚
 
-Ä¿Ç°½ÌÓıÏÈĞĞµÄÖ÷Òª»î¶¯ÊÇÃ¿ÄêÒ»¶ÈµÄĞÂÊĞÃñ×ÓµÜ²ÊºçĞĞ¶¯ÏÄÁîÓª¡£
+ç›®å‰æ•™è‚²å…ˆè¡Œçš„ä¸»è¦æ´»åŠ¨æ˜¯æ¯å¹´ä¸€åº¦çš„æ–°å¸‚æ°‘å­å¼Ÿå½©è™¹è¡ŒåŠ¨å¤ä»¤è¥ã€‚
 
-== About This Site ==
-* This is the new site design for edurunner
+About This Site
+==========
+* This is the new site design for edurunner.org
 * Author: Runwei Qiang <qiangrw@gmail.com>
 * Using CodeIgnite - Open source PHP web application framework. http://codeigniter.com
-* The css style is modified from the Big Business 2.0 Design, which is under a Creative Commons *
-* Attribution 3.0 Licence.
+* The css style is modified from the [Big Business 2.0 Design](http://www.freewebtemplates.com/download/free-website-template/big-business-20-639972274/), which is under a [Creative Commons Attribution 3.0 Licence](http://creativecommons.org/licenses/by/3.0/).
+*  has no title attribute.
