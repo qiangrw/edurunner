@@ -11,6 +11,5 @@ About This Site
 ==========
 * This is the new site design for edurunner.org
 * Author: Runwei Qiang <qiangrw@gmail.com>
-* Using CodeIgnite - Open source PHP web application framework. http://codeigniter.com
+* Using [CodeIgnite](http://codeigniter.com) - Open source PHP web application framework. 
 * The css style is modified from the [Big Business 2.0 Design](http://www.freewebtemplates.com/download/free-website-template/big-business-20-639972274/), which is under a [Creative Commons Attribution 3.0 Licence](http://creativecommons.org/licenses/by/3.0/).
-*  has no title attribute.
