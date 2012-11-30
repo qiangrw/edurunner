@@ -9,7 +9,8 @@ Edurunner
 
 About This Site
 ==========
-* This is the new site design for edurunner.org
+* This is the new site design for edurunner.org. 
+* Click [here](http://webkdd.org/edurunner/) to preview the site, will deployed to edurunner.org in the future.
 * Author: Runwei Qiang <qiangrw@gmail.com>
 * Using [CodeIgnite](http://codeigniter.com) - Open source PHP web application framework. 
 * The css style is modified from the [Big Business 2.0 Design](http://www.freewebtemplates.com/download/free-website-template/big-business-20-639972274/), which is under a [Creative Commons Attribution 3.0 Licence](http://creativecommons.org/licenses/by/3.0/).
