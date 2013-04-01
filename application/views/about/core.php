@@ -1,6 +1,10 @@
 <div id="page">
 <!--- BEGIN OF PAGE CONTENT -->	  
 	  
+<h2>组织结构 </h2>
+<p>
+<img src="images/struct.png" alt="组织结构" width=800 />
+</p>
 <h2>核心团队 </h2>
 <h3>胡雅萌 总干事 人力资源干事 </h3>
 <p>

@@ -18,8 +18,9 @@ class Welcome extends CI_Controller {
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
 	public function index()
-	{
-		$this->load->view('inc/header');
+    {
+        $data->title = 'EduRunner';
+		$this->load->view('inc/header',$data);
 		$this->load->view('welcome');
 		$this->load->view('inc/footer');
 	}

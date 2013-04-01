@@ -4,30 +4,26 @@ class Activity extends CI_Controller {
 
 	public function intro()
 	{
-		$this->load->view('inc/post_header');
+        $data->title = '活动介绍|EduRunner';
+		$this->load->view('inc/post_header',$data);
 		$this->load->view('activity/intro');
 		$this->load->view('inc/footer');
 	}
     
     public function course()
 	{
-		$this->load->view('inc/post_header');
+        $data->title = '课程理念|EduRunner';
+		$this->load->view('inc/post_header',$data);
 		$this->load->view('activity/course');
 		$this->load->view('inc/footer');
 	}
 	
 	public function retro()
 	{
-		$this->load->view('inc/post_header');
+        $data->title = '往期活动回顾|EduRunner';
+		$this->load->view('inc/post_header',$data);
 		$this->load->view('activity/retro');
 		$this->load->view('inc/footer');
     }
 
-	
-	public function students2012()
-	{
-		$this->load->view('inc/post_header');
-		$this->load->view('activity/students2012');
-		$this->load->view('inc/footer');
-	}
 }

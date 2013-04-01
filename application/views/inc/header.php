@@ -17,7 +17,7 @@ Edit by Runwei Qiang
 <meta name="description" content="Edurunner" />
 <meta name="keywords" content="Edurunner" />
 <meta name="author" content="redesigned by Runwei Qiang" />
-<title>EduRunner</title>
+<title><?php echo $title ?></title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="images/edurunnerlogo.ico" />
 <link rel="stylesheet" type="text/css" href="csslib/style.css?rand=12" />
