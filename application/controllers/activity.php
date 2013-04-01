@@ -8,20 +8,21 @@ class Activity extends CI_Controller {
 		$this->load->view('activity/intro');
 		$this->load->view('inc/footer');
 	}
-	
-	public function retro2012()
+    
+    public function course()
 	{
 		$this->load->view('inc/post_header');
-		$this->load->view('activity/retro2012');
+		$this->load->view('activity/course');
 		$this->load->view('inc/footer');
 	}
 	
-	public function retro2011()
+	public function retro()
 	{
 		$this->load->view('inc/post_header');
-		$this->load->view('activity/retro2011');
+		$this->load->view('activity/retro');
 		$this->load->view('inc/footer');
-	}
+    }
+
 	
 	public function students2012()
 	{

@@ -14,8 +14,9 @@ Edit by Runwei Qiang
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <base href="<?php echo base_url();?>">
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<meta name="description" content="Edurunner" />
+<meta name="keywords" content="Edurunner" />
+<meta name="author" content="redesigned by Runwei Qiang" />
 <title>EduRunner</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="images/edurunnerlogo.ico" />
@@ -47,58 +48,48 @@ Edit by Runwei Qiang
     <div id="logo"> 
             <h1> <a href="#" style="font-size:20px!important;">EduRunner</a> </h1>
             <h1> <a href="#" style="font-size:30px!important;">教育先行</a> </h1>
-		</div>
-	</div>
-	<div id="menu">
-		<ul>
-			<li><a href="<?php echo site_url('welcome'); ?>">首页</a></li>
-			<li class="first">
-				<span class="opener">关于我们<b></b></span>
-				<ul>
-					<li><a href="<?php echo site_url('about'); ?>">组织介绍</a></li>
-					<li><a href="<?php echo site_url('about/activity'); ?>">活动介绍</a></li>
-					<li>
-						<span>团队<b></b></span>
-						<ul>
-							<li><a href="<?php echo site_url('about/member2011'); ?>">2011团队</a></li>
-							<li><a href="<?php echo site_url('about/member2012'); ?>">2012团队</a></li>
-						</ul>
-          </li>
-          <li>
-            <span>组织结构<b></b></span>
+        </div>
+    </div>
+    <div id="menu">
+        <ul>
+            <li><a href="<?php echo site_url('welcome'); ?>">首页</a></li>
+        
+        <!-- FIRST -->
+        <li class="first">
+            <span class="opener">关于我们<b></b></span>
             <ul>
-              <li><a href="<?php echo site_url('about/core'); ?>">核心团队</a></li>
-              <li><a href="<?php echo site_url('about/advisory_board'); ?>">顾问委员会</a></li>
-              <li><a href="<?php echo site_url('about/youth_advisory_board'); ?>">青年顾问委员会</a></li>
-            </ul>
-          </li>
+                <li><a href="<?php echo site_url('about'); ?>">组织介绍</a></li>
+                <li><a href="<?php echo site_url('about/core'); ?>">组织结构</a></li>
+                <li><a href="<?php echo site_url('about/advisory_board'); ?>">顾问团队</a></li>
+                <li><a href="<?php echo site_url('about/contact'); ?>">联系我们</a></li>
+            </ul>              
+        </li>
 
-          <li><a href="<?php echo site_url('about/link'); ?>">战略支持和合作伙伴</a></li>
-          <li><a href="<?php echo site_url('about/contact'); ?>">联系方式</a></li>
-          <li><a href="<?php echo site_url('about/faq'); ?>">问题与解答</a></li>
-        </ul>
-      </li>
-
-      <li>
+        <!-- SECOND -->
+        <li>
         <span class="opener">彩虹行动<b></b></span>
         <ul>
-          <li><a href="<?php echo site_url('activity/intro'); ?>">活动设置</a></li>
-          <li>
-            <span>活动回顾<b></b></span>
-            <ul>
-              <li><a href="<?php echo site_url('activity/retro2011'); ?>">2011活动回顾</a></li>
-              <li><a href="<?php echo site_url('activity/retro2012'); ?>">2012活动回顾</a></li>
-            </ul>
-          </li>
-          <li><a href="<?php echo site_url('activity/students2012'); ?>">2012彩虹学生</a></li>
+          <li><a href="<?php echo site_url('activity/intro'); ?>">活动介绍</a></li>
+          <li><a href="<?php echo site_url('activity/course'); ?>">课程理念</a></li>
+          <li><span>导师及志愿者团队<b></b></span>
+           <ul>
+           <li><a href="<?php echo site_url('about/member2011'); ?>">2011年团队</a></li>
+           <li><a href="<?php echo site_url('about/member2012'); ?>">2012年团队</a></li>
+           </ul>
+           <li><a href="<?php echo site_url('activity/retro'); ?>">往期活动回顾</a></li>
+          </li> 
         </ul>
-      </li>
+        </li>
+
+        <!-- THIRD -->
       <li>
         <span class="opener">新闻与资源<b></b></span>
         <ul>
           <li><a href="<?php echo site_url('resource/news'); ?>">彩虹行动相关新闻</a></li>
         </ul>
       </li>
+
+      <!-- LAST -->
       <li class="last">
         <span class="opener">支持我们<b></b></span>
         <ul>

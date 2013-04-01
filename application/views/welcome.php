@@ -39,16 +39,14 @@
 				<h3>彩虹行动</h3>
 				<ul class="section-list">
 					<li class="first">
-						<img class="pic alignleft" src="images/pic01.jpg" width="70" height="70" alt="" />
-						<span>这里是某一个活动的简介。拉拉拉拉拉拉拉拉拉拉拉拉拉</span>
+						<span> 彩虹行动是“教育先行”的主打活动, 其目标对象是城市中的新市民（外来务工者）的子女。“彩虹行动”夏令营为期四天，从认识自我、认识他人、认识世界三个目标出发，围绕人生规划、时间管理、团队合作、批判性思维等主题开展课程和活动，通过互动课堂、团队合作游戏和实践社区服务项目等形式提升新市民子弟的自信心和创造力、增强自我意识、增进团队合作精神。</span>
 					</li>
 					<li>
-						<img class="pic alignleft" src="images/pic02.jpg" width="70" height="70" alt="" />
-						<span>这里是某一个活动的简介。</span>
+						<span>2011年8月下旬，第一届教育先行 “彩虹行动”新市民子弟多彩夏令营在江苏省常州市北环中学举行，四十余名初中学生参与了活动。2012年8月16日至19日，12名来自“教育先行”的导师和志愿者再次来到常州市北环中学，开展为期四天的“彩虹行动”新市民子弟多彩夏令营。</span>
 					</li>
 					<li class="last">
-						<img class="pic alignleft" src="images/pic03.jpg" width="70" height="70" alt="" />
-						<span>这里是某一个活动的简介。</span>
+						<!--<img class="pic alignleft" src="images/pic03.jpg" width="70" height="70" alt="" />-->
+                        <span>2013年彩虹行动暑期夏令营志愿者招募已经开始，详情请见“<a href="<?php echo site_url('support/volunteer') ?>">志愿者招募</a>”栏目</span>
 					</li>
 				</ul>
 			</div>
@@ -56,14 +54,14 @@
 			<br class="clearfix" />
 		</div>
 		<div id="sidebar">
-			<div class="box">
+			<!--<div class="box">
 				<h3>最新消息</h3>
 				<ul class="list">
 					<li class="first"><a href="#">消息一</a></li>
 					<li><a href="#">消息二</a></li>
 					<li class="last"><a href="#">更多消息</a></li>
 				</ul>
-			</div>
+			</div>-->
 			<div class="box">
 				<h3>彩虹新闻</h3>
 				<div class="date-list">
