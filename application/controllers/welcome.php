@@ -19,7 +19,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
     {
-        $data->title = 'EduRunner';
+        $data->title = '教育先行|EduRunner';
 		$this->load->view('inc/header',$data);
 		$this->load->view('welcome');
 		$this->load->view('inc/footer');
