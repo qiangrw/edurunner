@@ -42,55 +42,46 @@ Edit by Runwei Qiang
             <h1> <a href="#" style="font-size:30px!important;">教育先行</a> </h1>
     </div>
   </div>
-  <div id="menu">
-         <ul>
-            <li><a href="<?php echo site_url('welcome'); ?>">首页</a></li>
-        
+     <div id="menu">
+    <ul> <!-- MENU LI -->
+        <li><a href="<?php echo site_url('welcome'); ?>">首页</a></li> 
         <!-- FIRST -->
         <li class="first">
             <span class="opener">关于我们<b></b></span>
-            <ul>
-                <li><a href="<?php echo site_url('about'); ?>">组织介绍</a></li>
+            <ul><li><a href="<?php echo site_url('about'); ?>">组织介绍</a></li>
                 <li><a href="<?php echo site_url('about/core'); ?>">组织结构</a></li>
                 <li><a href="<?php echo site_url('about/advisory_board'); ?>">顾问团队</a></li>
                 <li><a href="<?php echo site_url('about/contact'); ?>">联系我们</a></li>
             </ul>              
-        </li>
-
+        </li> 
         <!-- SECOND -->
-        <li>
-        <span class="opener">彩虹行动<b></b></span>
-        <ul>
-          <li><a href="<?php echo site_url('activity/intro'); ?>">活动介绍</a></li>
-          <li><a href="<?php echo site_url('activity/course'); ?>">课程理念</a></li>
-          <li><span>导师及志愿者团队<b></b></span>
-           <ul>
-           <li><a href="<?php echo site_url('about/member2011'); ?>">2011年团队</a></li>
-           <li><a href="<?php echo site_url('about/member2012'); ?>">2012年团队</a></li>
-           </ul>
-           <li><a href="<?php echo site_url('activity/retro'); ?>">往期活动回顾</a></li>
-          </li> 
-        </ul>
+        <li><span class="opener">彩虹行动<b></b></span>
+            <ul><li><a href="<?php echo site_url('activity/intro'); ?>">活动介绍</a></li>
+                <li><a href="<?php echo site_url('activity/course'); ?>">课程理念</a></li>
+                <li><span>导师及志愿者团队<b></b></span>
+                    <ul>
+                    <li><a href="<?php echo site_url('about/member2011'); ?>">2011年团队</a></li>
+                    <li><a href="<?php echo site_url('about/member2012'); ?>">2012年团队</a></li>
+                    </ul>
+                </li>
+                <li><a href="<?php echo site_url('activity/retro'); ?>">往期活动回顾</a></li>
+            </ul>
         </li>
 
         <!-- THIRD -->
-      <li>
-        <span class="opener">新闻与资源<b></b></span>
-        <ul>
-          <li><a href="<?php echo site_url('resource/news'); ?>">彩虹行动相关新闻</a></li>
-        </ul>
-      </li>
+        <li><span class="opener">新闻与资源<b></b></span>
+            <ul><li><a href="<?php echo site_url('resource/news'); ?>">彩虹行动相关新闻</a></li>
+            </ul>
+        </li>
 
-      <!-- LAST -->
-      <li class="last">
-        <span class="opener">支持我们<b></b></span>
-        <ul>
-          <li><a href="<?php echo site_url('support/volunteer'); ?>">志愿者报名</a></li>
-          <li><a href="<?php echo site_url('support/school'); ?>">学校报名</a></li>
-          <li><a href="<?php echo site_url('support/donate'); ?>">捐赠和资助</a></li>
-        </ul>
-      </li>
-    </ul>
+        <!-- LAST -->
+        <li class="last"><span class="opener">支持我们<b></b></span>
+            <ul><li><a href="<?php echo site_url('support/volunteer'); ?>">志愿者报名</a></li>
+                <li><a href="<?php echo site_url('support/school'); ?>">学校报名</a></li>
+                <li><a href="<?php echo site_url('support/donate'); ?>">捐赠和资助</a></li>
+            </ul>
+        </li>
+    </ul> <!-- MENU UL END -->
 
     <br class="clearfix" />
   </div>
