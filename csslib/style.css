@@ -135,7 +135,7 @@ ul h4 {
 #header {
 	height: 75px;
 	position: relative;
-	background: yellow url(../images/head.png) top left no-repeat;
+	background: rgb(245,242,211) url(../images/head.png) top left no-repeat;
 	padding: 45px;
 	color: #FFFFFF;
 	/*width: 888px;
