@@ -54,7 +54,10 @@
 ➢	“团队活动”— 学生分组设计公益项目，并在教师指导下走出校园、将计划付诸实践。
 </p>
 
-
+<h3>活动视频</h3>
+<div>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNTM4NzAyMzky" frameborder=0 allowfullscreen></iframe>
+</div>
 
 
 </div>

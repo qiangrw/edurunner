@@ -87,9 +87,6 @@
  2012年“彩虹行动”新市民子弟多彩夏令营志愿者：“这是我第一次参加志愿者活动，我把我的好多第一次都献给了彩虹。年龄小，阅历少，让我很多方面都处于很被动的状态，就连自我介绍都做不好。可是我的同伴们没有嫌弃我，大家都对我很好，会对我提点，给予我帮助，让我感受到了志愿者团队的温暖。”
 </p>
 
-<div>
-<iframe height=498 width=510 src="http://player.youku.com/embed/XNTM4NzAyMzky" frameborder=0 allowfullscreen></iframe>
-</div>
 <br/>
 
 </div>

@@ -58,7 +58,7 @@ $(function() {
             <span class="opener">关于我们<b></b></span>
             <ul><li><a href="<?php echo site_url('about'); ?>">组织介绍</a></li>
                 <li><a href="<?php echo site_url('about/core'); ?>">组织结构</a></li>
-                <li><a href="<?php echo site_url('about/advisory_board'); ?>">顾问团队</a></li>
+                <li><a href="<?php echo site_url('about/advisory_board'); ?>">顾问委员会</a></li>
                 <li><a href="<?php echo site_url('about/contact'); ?>">联系我们</a></li>
             </ul>              
         </li> 
@@ -85,7 +85,7 @@ $(function() {
         <!-- LAST -->
         <li class="last"><span class="opener">支持我们<b></b></span>
             <ul><li><a href="<?php echo site_url('support/volunteer'); ?>">志愿者报名</a></li>
-                <li><a href="<?php echo site_url('support/school'); ?>">学校报名</a></li>
+                <li><a href="<?php echo site_url('support/school'); ?>">合作学校报名</a></li>
                 <li><a href="<?php echo site_url('support/donate'); ?>">捐赠和资助</a></li>
             </ul>
         </li>
