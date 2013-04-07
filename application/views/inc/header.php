@@ -46,8 +46,8 @@ $(function() {
 <div id="wrapper">
   <div id="header"> 
     <div id="logo"> 
-            <h1> <a href="#" style="font-size:20px!important;">EduRunner</a> </h1>
-            <h1> <a href="#" style="font-size:30px!important;">教育先行</a> </h1>
+            <h1> <a href="#" style="font-size:23px!important;">EduRunner</a> </h1>
+            <h1> <a href="#" style="font-size:33px!important;">教育先行</a> </h1>
         </div>
     </div>
     <div id="menu">
