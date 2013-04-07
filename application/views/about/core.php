@@ -62,5 +62,13 @@
 林舒于2011年共同创建了 “教育先行”。
 </p>
 
+<h3>强闰伟 网络技术部干事</h3>
+<p>
+现于北京大学攻读硕士学位，研究兴趣为互联网搜索与挖掘。本科毕业于南京大学计算机系。 
+</p>
+<p>
+<a href="http://webkdd.org/person/qiangrw.html" target="_blank">强闰伟</a>在2013年加入“教育先行”，主要提供网站技术支持。
+</p>
+
 <!-- END OF PAGE CONTENT -->
 </div></div>
