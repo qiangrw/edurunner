@@ -26,4 +26,14 @@ class Support extends CI_Controller {
         $this->load->view('support/donate');
         $this->load->view('inc/footer');
     }
+
+    public function helplist()
+    {
+        $data->title = '爱心榜|EduRunner';
+        $this->load->view('inc/post_header', $data);
+        $this->load->view('support/helplist');
+        $this->load->view('inc/footer');
+    }
+
+
 }

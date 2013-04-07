@@ -71,6 +71,7 @@ Edit by Runwei Qiang
         <!-- THIRD -->
         <li><span class="opener">新闻与资源<b></b></span>
             <ul><li><a href="<?php echo site_url('resource/news'); ?>">彩虹行动相关新闻</a></li>
+                <li><a href="<?php echo site_url('resource'); ?>">彩虹行动宣传材料</a></li>
             </ul>
         </li>
 
@@ -79,6 +80,7 @@ Edit by Runwei Qiang
             <ul><li><a href="<?php echo site_url('support/volunteer'); ?>">志愿者报名</a></li>
                 <li><a href="<?php echo site_url('support/school'); ?>">合作学校报名</a></li>
                 <li><a href="<?php echo site_url('support/donate'); ?>">捐赠和资助</a></li>
+                <li><a href="<?php echo site_url('support/helplist'); ?>">爱心榜</a></li>
             </ul>
         </li>
     </ul> <!-- MENU UL END -->

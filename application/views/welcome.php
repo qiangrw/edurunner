@@ -73,12 +73,23 @@
             <h3>彩虹新闻</h3>
             <div class="date-list">
                 <ul class="list date-list">
-                    <li><span class="date">08/08/05</span><br />
-                    <a href="#">外来工子弟体验哈佛教育</a></li>
-                    <li> <a href="#">更多新闻</a></li>
+                    <li> <!--<span class="date">08/08/11</span><br />--> <a href="http://news.sina.com.cn/s/2011-08-12/113522980117.shtml">外来工子弟体验哈佛教育</a></li>
+                    <li> <a href="http://172.31.200.17/edurunner/index.php/resource/news">更多新闻</a></li>
                 </ul>
             </div>
         </div>
+                     
+        <div class="box">
+            <h3>往届活动回顾</h3>
+            <div class="date-list">
+                <ul class="list date-list">
+                    <li> <a href="http://v.youku.com/v_show/id_XNTM4NzAyMzky.html">2012年活动回顾</a></li>
+                    <li> <a href="">2011年活动回顾</a></li>
+                </ul>
+            </div>
+        </div>
+                    
+
     </div>
     <br class="clearfix" />
 </div>
