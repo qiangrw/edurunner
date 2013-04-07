@@ -83,8 +83,8 @@
             <h3>往届活动回顾</h3>
             <div class="date-list">
                 <ul class="list date-list">
-                    <li> <a href="http://v.youku.com/v_show/id_XNTM4NzAyMzky.html">2012年活动回顾</a></li>
-                    <li> <a href="">2011年活动回顾</a></li>
+                    <li> <a href="http://v.youku.com/v_show/id_XNDU2MDkyMzgw.html">2012年活动回顾</a></li>
+                    <li> <a href="http://v.youku.com/v_show/id_XNTM4NzAyMzky.html">2011年活动回顾</a></li>
                 </ul>
             </div>
         </div>
