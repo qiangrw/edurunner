@@ -13,7 +13,7 @@ Edit by Runwei Qiang
 -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<base href="<?php echo base_url();?>">
+<base href="<?php echo base_url();?>" />
 <meta name="description" content="Edurunner" />
 <meta name="keywords" content="Edurunner" />
 <meta name="author" content="redesigned by Runwei Qiang" />

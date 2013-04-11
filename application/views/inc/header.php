@@ -13,7 +13,7 @@ Edit by Runwei Qiang
 -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<base href="<?php echo base_url();?>">
+<base href="<?php echo base_url();?>" />
 <meta name="description" content="Edurunner" />
 <meta name="keywords" content="Edurunner" />
 <meta name="author" content="redesigned by Runwei Qiang" />
@@ -25,7 +25,20 @@ Edit by Runwei Qiang
 <script type="text/javascript" src="jslib/jquery.dropotron-1.0.js"></script>
 <script type="text/javascript" src="jslib/jquery.slidertron-1.1.js"></script>
 <script type="text/javascript">
+function detectBrowser()
+{
+    var browser=navigator.appName;
+    var b_version=navigator.appVersion;
+    var version=parseFloat(b_version);
+
+    if (browser=="Microsoft Internet Explorer" && version<=4)
+    {
+        alert("为了更好的浏览本站，请选择下载IE(>=9),谷歌或者火狐浏览器.")
+    }
+}
+
 $(function() {
+
     $('#menu > ul').dropotron({
         mode: 'fade',
             globalOffsetY: 11,
@@ -39,6 +52,8 @@ $(function() {
             speed: 'slow',
             advanceDelay: 4000
     });
+    
+    detectBrowser();
 });
 </script>
 </head>
