@@ -45,7 +45,7 @@
 <p>申请成为2013年“彩虹行动”夏令营导师，须于<strong>北京时间2013年5月5日晚12点</strong>前提交申请表、个人简历以及至少一封推荐信（更多要求，参见
 <a href="download/edurunner_guide.pdf">《招募指导手册》</a>）</p>
 <p><a href="http://edurunner.wufoo.com/forms/2013aeeaeecee/">点击进入申请页面</a></p>
-<p><strong>我们将于五月初通知进入面试的申请人参加面试。</strong></p>
+<p><strong>我们将于五月中旬通知进入面试的申请人参加面试。</strong></p>
 
 
 <h3> 联系我们</h3>
