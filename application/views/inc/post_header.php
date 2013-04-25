@@ -81,21 +81,23 @@ Edit by Runwei Qiang
         <!-- THIRD -->
         <li><span class="opener">新闻与资源<b></b></span>
             <ul><li>
-                <li><a href="http://www.edurunner.org/blog">彩虹博客</a></li>
                 <a href="<?php echo site_url('resource/news'); ?>">彩虹行动相关新闻</a></li>
                 <li><a href="<?php echo site_url('resource'); ?>">彩虹行动宣传材料</a></li>
                 <li><a href="<?php echo site_url('resource/posts'); ?>">志愿者感言</a></li>
             </ul>
         </li>
 
-        <!-- LAST -->
-        <li class="last"><span class="opener">支持我们<b></b></span>
+
+        <li><span class="opener">支持我们<b></b></span>
             <ul><li><a href="<?php echo site_url('support/volunteer'); ?>">志愿者报名</a></li>
                 <li><a href="<?php echo site_url('support/school'); ?>">合作学校报名</a></li>
                 <li><a href="<?php echo site_url('support/donate'); ?>">捐赠和资助</a></li>
                 <li><a href="<?php echo site_url('support/helplist'); ?>">爱心榜</a></li>
             </ul>
         </li>
+        
+        <!-- LAST -->
+        <li class="last"><a href="http://www.edurunner.org/blog">博雅博思</a></li>
     </ul> <!-- MENU UL END -->
 
     <br class="clearfix" />
