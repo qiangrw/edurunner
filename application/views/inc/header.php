@@ -103,7 +103,9 @@ $(function() {
 
         <!-- THIRD -->
         <li><span class="opener">新闻与资源<b></b></span>
-            <ul><li><a href="<?php echo site_url('resource/news'); ?>">彩虹行动相关新闻</a></li>
+            <ul>
+                <li><a href="http://www.edurunner.org/blog">彩虹博客</a></li>
+                <li><a href="<?php echo site_url('resource/news'); ?>">彩虹行动相关新闻</a></li>
                 <li><a href="<?php echo site_url('resource'); ?>">彩虹行动宣传材料</a></li>
                 <li><a href="<?php echo site_url('resource/posts'); ?>">志愿者感言</a></li>
             </ul>
