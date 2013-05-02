@@ -25,6 +25,15 @@ class About extends CI_Controller {
         $this->load->view('about/2012member');
         $this->load->view('inc/footer');
     }
+    
+    public function teacher()
+    {
+        $data->title = '导师|EduRunner';
+        $this->load->view('inc/post_header',$data);
+        $this->load->view('about/teacher');
+        $this->load->view('inc/footer');
+    }
+
 
     public function contact()
     {
