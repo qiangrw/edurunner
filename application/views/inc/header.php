@@ -93,6 +93,7 @@ $(function() {
                 <li><a href="<?php echo site_url('activity/course'); ?>">课程理念</a></li>
                 <li><span>导师及志愿者团队<b></b></span>
                     <ul>
+                    <li><a href="<?php echo site_url('about/teacher'); ?>">导师</a></li>
                     <li><a href="<?php echo site_url('about/member2011'); ?>">2011年团队</a></li>
                     <li><a href="<?php echo site_url('about/member2012'); ?>">2012年团队</a></li>
                     </ul>
