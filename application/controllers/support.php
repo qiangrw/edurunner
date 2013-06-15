@@ -9,7 +9,14 @@ class Support extends CI_Controller {
         $this->load->view('support/volunteer');
         $this->load->view('inc/footer');
     }
-
+ 
+    public function friend()
+    {
+        $data->title = '合作伙伴|EduRunner';
+        $this->load->view('inc/post_header', $data);
+        $this->load->view('support/friend');
+        $this->load->view('inc/footer');
+    }
 
     public function school()
     {

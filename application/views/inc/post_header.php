@@ -70,7 +70,6 @@ Edit by Runwei Qiang
                 <li><a href="<?php echo site_url('activity/course'); ?>">课程理念</a></li>
                 <li><span>导师及志愿者团队<b></b></span>
                     <ul>
-                    <li><a href="<?php echo site_url('about/teacher'); ?>">导师</a></li>
                     <li><a href="<?php echo site_url('about/member2011'); ?>">2011年团队</a></li>
                     <li><a href="<?php echo site_url('about/member2012'); ?>">2012年团队</a></li>
                     </ul>
@@ -91,7 +90,8 @@ Edit by Runwei Qiang
 
         <li><span class="opener">支持我们<b></b></span>
             <ul><li><a href="<?php echo site_url('support/volunteer'); ?>">志愿者报名</a></li>
-                <li><a href="<?php echo site_url('support/school'); ?>">合作学校报名</a></li>
+                <li><a href="<?php echo site_url('support/friend'); ?>">合作伙伴</a></li>
+                <li><a href="<?php echo site_url('support/school'); ?>">合作机构报名</a></li>
                 <li><a href="<?php echo site_url('support/donate'); ?>">捐赠和资助</a></li>
                 <li><a href="<?php echo site_url('support/helplist'); ?>">爱心榜</a></li>
             </ul>
