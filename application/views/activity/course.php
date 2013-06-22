@@ -11,7 +11,7 @@
 </p>
 
 <p>
-<img src="images/course1.png" alt="图 2 彩虹行动课程目标-认识自我" width=600></img>
+<img src="images/course2.png" alt="图 2 彩虹行动课程目标-认识自我" width=600></img>
 </p>
 
 <h3>认识他人，学会沟通尊重，培养团队精神</h3>
@@ -23,7 +23,7 @@
 下图展现了本部分课程希望传达的理念：
 </p>
 <p>
-<img src="images/course2.png" alt="图 3 彩虹行动课程目标-认识他人" width=600></img>
+<img src="images/course1.png" alt="图 3 彩虹行动课程目标-认识他人" width=600></img>
 </p>
 
 <h3>认识世界</h3>
